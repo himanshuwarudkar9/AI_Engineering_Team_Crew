@@ -2,6 +2,8 @@
 
 Welcome to the EngineeringTeam Crew project, powered by [crewAI](https://crewai.com). This multi-agent AI system uses specialized engineering agents to collaboratively design, develop, and test a complete trading simulation platform with an interactive web interface.
 
+![freepik_candid_i_with_natural_textures_and_highly_realisti_96683](https://github.com/user-attachments/assets/e52bac3b-537d-410f-86d4-4c031a07adda)
+
 ## Project Overview
 
 This project leverages four AI agents working together:
