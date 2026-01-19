@@ -13,7 +13,7 @@ This project leverages four AI agents working together:
 The agents collaborate to produce a fully functional trading platform saved in the `output/` directory.
 
 # Application Preview
-![Trading Platform Screenshot](c:\Users\himan\OneDrive\Pictures\Screenshots\Screenshot 2026-01-19 224141.png)
+![Trading Platform Screenshot](<img width="1914" height="873" alt="Screenshot 2026-01-19 224141" src="https://github.com/user-attachments/assets/0f82c01c-1047-49bc-b737-84a8e0e690fe" />)
 
 *AI-generated trading simulation platform with account management, portfolio tracking, and transaction history*
 
@@ -58,10 +58,10 @@ crewai run
 ```
 
 This will:
-1. ✅ Create a detailed system design (`output/accounts.py_design.md`)
-2. ✅ Generate backend code (`output/accounts.py`)
-3. ✅ Build the frontend UI (`output/app.py`)
-4. ✅ Create unit tests (`output/test_accounts.py`)
+1. Create a detailed system design (`output/accounts.py_design.md`)
+2. Generate backend code (`output/accounts.py`)
+3. Build the frontend UI (`output/app.py`)
+4. Create unit tests (`output/test_accounts.py`)
 
 ### Run the Generated Application
 
