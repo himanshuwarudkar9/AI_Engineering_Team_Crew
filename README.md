@@ -1,28 +1,5 @@
 # EngineeringTeam Crew - Trading Platform Builder
 
-Welcome to the EngineeringTeam Crew project, powered by [crewAI](https://crewai.com). This multi-agent AI system uses specialized engineering agents to collaboratively design, develop, and test a complete trading simulation platform with an interactive web interface.
-
-![freepik_candid_i_with_natural_textures_and_highly_realisti_96683](https://github.com/user-attachments/assets/e52bac3b-537d-410f-86d4-4c031a07adda)
-
-## Project Overview
-
-This project leverages four AI agents working together:
-- **Engineering Lead**: Creates detailed system designs from requirements
-- **Backend Engineer**: Implements Python backend logic for account management and trading
-- **Frontend Engineer**: Builds interactive Gradio-based UI
-- **Test Engineer**: Generates comprehensive unit tests
-
-The agents collaborate to produce a fully functional trading platform saved in the `output/` directory.
-
-# Application Preview
-<img width="1914" height="873" alt="Screenshot 2026-01-19 224141" src="https://github.com/user-attachments/assets/f6764451-9abd-42b4-ba49-d41317cba3b2" />
-
-
-*AI-generated trading simulation platform with account management, portfolio tracking, and transaction history*
-
-
-# EngineeringTeam Crew - Trading Platform Builder
-
 > A four-agent CrewAI system that takes plain-English requirements and autonomously generates a production-ready trading simulation platform — complete with backend logic, a Gradio UI, unit tests, and a system design document — all in a single `crewai run`.
 
 ![freepik_candid_i_with_natural_textures_and_highly_realisti_96683](https://github.com/user-attachments/assets/e52bac3b-537d-410f-86d4-4c031a07adda)
